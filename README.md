@@ -1,4 +1,4 @@
 # shaurya-demo
 This is my first git repository
 <br>
-author shaurya tiwari
+author Shaurya tiwari ( jabalpur )
