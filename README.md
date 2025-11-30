@@ -1,4 +1,5 @@
 # shaurya-demo
 This is my first git repository
 <br>
-author Shaurya tiwari ( jabalpur )
+author Shaurya tiwari ( jabalpur ) Gyan ganga studet 
+
